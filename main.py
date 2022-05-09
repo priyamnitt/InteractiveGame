@@ -65,10 +65,10 @@ problem("A control structure: ",
 problem("Write condition to check if any person is under 30 (age wise) and earns more than 3000000?\nAssume variables `age` and `salary` already exists.", 
         [], 
         [
-            "You can use different operators for comparision like (<=), (>=), (==), (!=)", 
+            "You can use different operators for comparision like (<=), (>=), (==), (!=), (>), (<)", 
             "Multiple conditions can be combined using (and) or (or) keywords."
         ],
-        "age <= 30 and salary >= 3000000")
+        "age < 30 and salary > 3000000")
 
 problem("Write condition which will evaluate to `True` when comparing following variable with value - `MOTOROLA` without altering the value?\nmobile_brand = 'MotoRola'",
         [],
