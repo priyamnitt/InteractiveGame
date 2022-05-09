@@ -70,7 +70,7 @@ problem("Write condition to check if any person is under 30 (age wise) and earns
         ],
         "age <= 30 and salary >= 3000000")
 
-problem("Write condition which will evaluate to `True` when comparing following variable with value - `MOTOROLA` without atering the value?\nmobile_brand = 'MotoRola'",
+problem("Write condition which will evaluate to `True` when comparing following variable with value - `MOTOROLA` without altering the value?\nmobile_brand = 'MotoRola'",
         [],
         [
             "Try converting variables in the same case in which value (constant) is defined.",
